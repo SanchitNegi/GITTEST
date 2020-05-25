@@ -1,1 +1,2 @@
 I have added B in Feature-Nranch
+I have added B in Feature-Nranch in 2-commit
